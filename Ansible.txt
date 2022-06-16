@@ -1,0 +1,7 @@
+Для работы с win серверами
+установить 
+
+yum -y install python-pip
+
+
+pip install "pywinrm>=0.3.0"
